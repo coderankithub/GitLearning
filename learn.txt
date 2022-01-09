@@ -1,0 +1,2 @@
+Hey Ankit 
+Use git init to initilize the git repo in local.
